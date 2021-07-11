@@ -154,21 +154,6 @@
     transition: transform 150ms;
   }
   
-
-  #clearBtn {
-    background: linear-gradient(to left, #722744, #e24949f1, #ac3c3c, #2285f7, rgb(245, 241, 20), rgb(67, 219, 62));
-    border: 0.125rem solid #9a8fac;
-    color: whitesmoke;
-    display: flex;
-    justify-content: center;
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin: 0.125rem 0;
-    padding: 0.1875rem;
-    text-shadow: 0 0 0.5rem #333;
-    width: 100%;
-
-  }
   
   #clearBtn:hover {
     cursor: pointer;
